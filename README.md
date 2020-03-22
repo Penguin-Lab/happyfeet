@@ -1,5 +1,5 @@
 # happyfeet
-Um robô móvel para espaços inteligentes com Arduino Mega, sensores e ESP8266 12
+O Happy é um robô móvel dotado de sensores e controlado por um Arduino! Com este robô, temos a possibilidade de realizar tarefas em um ambiente inteligente! O objetivo é a criação de um espaço inteligente no IFES Guarapari e o primeiro passo é ter uma plataforma robótica que consiga executar tarefas móveis neste espaço.
 
 # Estrutura física
 A estrutura física do robô é composta por dois andares feitos de acrílico. Os arquivos de CAD com os cortes e furos estão na pasta CAD deste projeto.
