@@ -5,10 +5,14 @@ Um robô móvel para espaços inteligentes com Arduino Mega, sensores e ESP8266 
 A estrutura física do robô é composta por dois andares feitos de acrílico. Os arquivos de CAD com os cortes e furos estão na pasta CAD deste projeto.
 As peças projetadas em 3D foram impressas utilizando PLA e podem ser encontradas na pasta Pecas_3d deste projeto.
 
+<img src="https://github.com/Penguin-Lab/happyfeet/blob/master/images/happy0.jpg" width="300"> <img src="https://github.com/Penguin-Lab/happyfeet/blob/master/images/happy1.jpg" width="300"> <img src="https://github.com/Penguin-Lab/happyfeet/blob/master/images/happy2.jpg" width="300"> <img src="https://github.com/Penguin-Lab/happyfeet/blob/master/images/happy3.jpg" width="300">
+
 ## Placas de circuito impresso
 No projeto, foram desenvolvidas duas placas de circuito:
 * Shield para o Arduino Mega e sensores
 * Placa para a ESP8266 12
+
+<img src="https://github.com/Penguin-Lab/happyfeet/blob/master/images/shield_arduino_mega_cut.png" width="300"> <img src="https://github.com/Penguin-Lab/happyfeet/blob/master/images/esp_cut.png" width="220">
 
 ## Componentes eletrônicos
 Os componentes eletrônicos embarcados no robô e equipamentos utilizados são:
