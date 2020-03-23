@@ -8,8 +8,8 @@
 SoftwareSerial Serial_ArdEsp(rxPin, txPin);
 
 // --------- Wifi ----------
-const char* ssid =      "LabPenguin";
-const char* password =  "brunoamigo";
+const char* ssid =      "SSID";
+const char* password =  "SENHA";
 
 // ----- Topicos Mqtt ------
 #define SUB_TOPIC "happy/velocities"
